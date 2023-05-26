@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59814343974",
+    "project_id": "gaurav-notes",
+    "storage_bucket": "gaurav-notes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59814343974:android:bb9a9ae9c79c41db757de7",
+        "android_client_info": {
+          "package_name": "com.gaurav.mynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59814343974-spcqm6klltdt3fr10sknm0267vd3mqh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgSSFHJIxJHm-CNPGu_QKlkAQzJ9ksSKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59814343974-spcqm6klltdt3fr10sknm0267vd3mqh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
