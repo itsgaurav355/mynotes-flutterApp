@@ -89,6 +89,7 @@ class NotesService {
       where: 'id = ?',
       whereArgs: [note.id],
     );
+
     if (updateCount == 0) {
       throw CounldNotUpdateNote();
     } else {
